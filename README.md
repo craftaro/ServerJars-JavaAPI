@@ -7,6 +7,23 @@ The Java API for ServerJars
 
 - [Gson](https://github.com/google/gson)
 
+**Maven:**
+```xml
+<repository>
+    <id>public</id>
+    <url>https://repo.songoda.com/repository/public/</url>
+</repository>
+```
+ Artifact Information:
+```xml
+<dependency>
+    <groupId>com.serverjars</groupId>
+    <artifactId>ServerJarsAPI</artifactId>
+    <version>1</version>
+    <scope>provided</scope>
+</dependency>
+ ```
+
 **Code Examples:**
 
 **Fetching the latest Jar:**
