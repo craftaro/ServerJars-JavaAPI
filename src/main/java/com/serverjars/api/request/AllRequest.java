@@ -38,7 +38,7 @@ public class AllRequest implements Request<AllResponse> {
 
     @Override
     public String url() {
-        return "/fetchAll/" + type + (max > 0 ? "/" + max : "");
+        return "/fetchAll/" + type + "/" + max;
     }
 
     @Override

@@ -2,7 +2,6 @@ package com.serverjars.api.request;
 
 import com.google.gson.JsonObject;
 import com.serverjars.api.Response;
-import com.serverjars.api.ServerJars;
 
 /**
  * @author Jacobtread
