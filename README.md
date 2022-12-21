@@ -1,4 +1,4 @@
-![ServerJars](https://serverjars.com/assets/img/icon_small.png)
+![ServerJars](https://serverjars.com/img/icon_small.png)
 
 # ServerJars-API
 The Java API for ServerJars
